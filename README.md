@@ -26,9 +26,6 @@ Open Arduino IDE, navigate to Sketch > Include Library > Manage Libraries…
 Install Adafruit SSD1306 and Adafruit GFX libraries.
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/esp32-duino-coin-oled.git
 Prepare the Arduino Sketch:
 
 Open the downloaded sketch in Arduino IDE.
